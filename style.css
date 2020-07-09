@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(213, 221, 212);
+}
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 20px;
+}
+
+.paragraph {
+  font-family: roboto;
+  font-size: 30px;
+  color: green;
+}
